@@ -47,7 +47,7 @@ El objetivo principal de esta práctica ha sido construir un servicio REST resil
 
 | Categoría | Tecnologías / Librerías |
 | :--- | :--- |
-| **Framework** | .NET 9 / C# 14 |
+| **Framework** | .NET 10 / C# 14 |
 | **Persistencia** | Entity Framework Core, Dapper, SQLite, PostgreSQL |
 | **Caché** | `Microsoft.Extensions.Caching.Memory`, Redis |
 | **HTTP Client** | Refit + `HttpClientFactory` |
